@@ -5,7 +5,7 @@ The steps we need to follow (as of 3rd July):
   <li>Decide the deadline for the completion of this tutorial.</li>
 </ol>
 
-Slack handles of the team : \@Elizabeth W, \@Saraj Majors, \@Yaak, \@LauraT, \@KT
+Slack handles of the team : \@Elizabeth W, \@Saraj Majors, \@Yaak, \@LauraT, \@KT, \@Parth Hiren Shah
 
 Trello Board by \@Yaak
 <a href = https://trello.com/b/ljgxuVOu/gan-t-shirt-contest> Resources</a>
